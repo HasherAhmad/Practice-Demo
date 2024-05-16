@@ -1,4 +1,4 @@
 # Practice-Demo
 This is my first Git Repository
 <br>
-Author Hasher Ahmad
+Author Hasher (Air University)
